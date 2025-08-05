@@ -42,7 +42,3 @@ Framework: Hugging Face Transformers
 
 📷 Preview
 Positive	Neutral	Negative
-
-🎥 Watch the Demo Video (Add your video link here)
-
-📦 Installation
