@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Primary Colors -->
+    <color name="primary_color">#6366F1</color>
+    <color name="primary_color_dark">#4F46E5</color>
+    <color name="secondary_color">#EC4899</color>
+
+    <!-- Background Colors -->
+    <color name="background_color">#F8FAFC</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="surface_color">#F1F5F9</color>
+
+    <!-- Text Colors -->
+    <color name="primary_text">#1E293B</color>
+    <color name="secondary_text">#64748B</color>
+    <color name="hint_text">#94A3B8</color>
+
+    <!-- Sentiment Colors -->
+    <color name="sentiment_positive">#10B981</color>
+    <color name="sentiment_negative">#EF4444</color>
+    <color name="sentiment_neutral">#6B7280</color>
+
+    <!-- Accent Colors -->
+    <color name="success_color">#059669</color>
+    <color name="warning_color">#D97706</color>
+    <color name="error_color">#DC2626</color>
+
+    <!-- Gradient Colors -->
+    <color name="gradient_start">#667EEA</color>
+    <color name="gradient_end">#764BA2</color>
+
+    <!-- Chip Colors -->
+    <color name="chip_background">#E2E8F0</color>
+    <color name="chip_selected">#EEF2FF</color>
+</resources>
